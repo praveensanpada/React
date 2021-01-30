@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.registration{
+  
+
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+.logs{
+  
+
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.logs input{
+  width: 300px;
+  height: 60px;
+   margin: 10px;
+   font-size: 20px;
+ }
