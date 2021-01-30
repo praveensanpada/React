@@ -1,0 +1,2 @@
+(this.webpackJsonpclient=this.webpackJsonpclient||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var n=c(0),s=(c(1),c(3)),r=c.n(s),i=(c(9),function(){return Object(n.jsxs)("div",{className:"App",children:[Object(n.jsx)("h1",{children:"Hello React JS!!!!"}),Object(n.jsx)("hr",{}),Object(n.jsx)("p",{children:"Body Part"}),Object(n.jsx)("hr",{}),Object(n.jsx)("p",{children:"Copyright@CDAC.com"})]})});r.a.render(Object(n.jsx)(i,{}),document.getElementById("root"))},9:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.fae1e320.chunk.js.map
